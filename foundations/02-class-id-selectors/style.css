@@ -1,0 +1,17 @@
+.odd-numbers{
+  background-color: lightpink;
+  font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+.odd-numbers.cooler{
+  font-weight: bold;
+}
+.fourth-ele{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#two {
+  color: blue;
+  font-size: 36px;
+}
